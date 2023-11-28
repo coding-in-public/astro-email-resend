@@ -11,7 +11,19 @@
   },
   "dependencies": {
     "@astrojs/check": "^0.3.1",
+    "@astrojs/node": "^6.0.4",
+    "@astrojs/react": "^3.0.6",
+    "@astrojs/tailwind": "^5.0.2",
+    "@react-email/components": "^0.0.11",
+    "@react-email/render": "^0.0.9",
+    "@types/react": "^18.2.38",
+    "@types/react-dom": "^18.2.17",
     "astro": "^3.6.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-email": "^1.9.5",
+    "resend": "^2.0.0",
+    "tailwindcss": "^3.3.5",
     "typescript": "^5.3.2"
   }
 }
